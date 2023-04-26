@@ -20,6 +20,7 @@
 
 /**
  *struct fmt - Struct op
+ *
  *@fmt: the format
  *@fn: the associated function
  */
